@@ -1,0 +1,17 @@
+{
+  "name": "typescript-decorators",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.5.0",
+    "tsx": "^4.15.7",
+    "typescript": "^5.5.2"
+  }
+}
